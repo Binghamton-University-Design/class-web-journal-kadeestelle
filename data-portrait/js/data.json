@@ -4,58 +4,58 @@
     "I feel that social distancing is an effective strategy in countering the effects of the virus.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "1_always.png",
-      "Agree" : "Survey Images_Blank.png",
+      "Strongly Agree" : "data-portrait/images/1_always.png",
+      "Agree" : "data-portrait/images/Survey Images_Blank.png",
       "is_text" : false
     },
     "I am enjoying my extra time at home.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "images/Survey Images_1 extra time strongly agree.png",
-      "Agree" : "images/Survey Images_1 extra time agree.png",
-      "Neutral" : "images/Survey Images_1 extra time neutral.png",
-      "Disagree" : "images/Survey Images_1 extra time disagree.png",
-      "Strongly Disagree" : "images/Survey Images_1 extra time strongly disagree.png",
+      "Strongly Agree" : "data-portrait/images/Survey Images_1 extra time strongly agree.png",
+      "Agree" : "data-portrait/images/Survey Images_1 extra time agree.png",
+      "Neutral" : "data-portrait/images/Survey Images_1 extra time neutral.png",
+      "Disagree" : "data-portrait/images/Survey Images_1 extra time disagree.png",
+      "Strongly Disagree" : "data-portrait/images/Survey Images_1 extra time strongly disagree.png",
       "is_text" : false
     },
     "I think online classes are just as effective as in person classes.": {
       "x" : 0,
       "y" : 0,
-      "Agree" : "images/Survey Images_1 school agree.png",
-      "Neutral" : "images/Survey Images_1 school neutral.png",
-      "Disagree" : "images/Survey Images_1 school disagree.png",
-      "Strongly Disagree" : "images/Survey Images_1 school strongly disagree.png",
+      "Agree" : "data-portrait/images/Survey Images_1 school agree.png",
+      "Neutral" : "data-portrait/images/Survey Images_1 school neutral.png",
+      "Disagree" : "data-portrait/images/Survey Images_1 school disagree.png",
+      "Strongly Disagree" : "data-portrait/images/Survey Images_1 school strongly disagree.png",
       "is_text" : false
     },
     "I have been supporting local businesses as much as I can.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "images/Survey Images_1 local strongly agree.png",
-      "Agree" : "images/Survey Images_1 local agree.png",
-      "Neutral" : "images/Survey Images_1 local neutral.png",
-      "Disagree" : "images/Survey Images_Blank.png",
+      "Strongly Agree" : "data-portrait/images/Survey Images_1 local strongly agree.png",
+      "Agree" : "data-portrait/images/Survey Images_1 local agree.png",
+      "Neutral" : "data-portrait/images/Survey Images_1 local neutral.png",
+      "Disagree" : "data-portrait/images/Survey Images_Blank.png",
       "is_text" : false
     },
    "I am very conscious of sanitization when I shop for groceries.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "imges/Survey Images_1 groceries strongly.png",
-      "Agree" : "imaages/Survey Images_1 groceries agree.png",
-      "Neutral" : "images/Survey Images_Blank.png",
+      "Strongly Agree" : "data-portrait/images/Survey Images_1 groceries strongly.png",
+      "Agree" : "data-portrait/images/Survey Images_1 groceries agree.png",
+      "Neutral" : "data-portrait/images/Survey Images_Blank.png",
       "is_text" : false
     },
        "I am following social distancing guidelines as much as possible.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "images/Survey Images_1.png",
-      "Agree" : "images/Survey Images_1 following social agree.png",
+      "Strongly Agree" : "data-portrait/images/Survey Images_1.png",
+      "Agree" : "data-portrait/images/Survey Images_1 following social agree.png",
       "is_text" : false
     },
           "I am": {
       "x" : 0,
       "y" : 0,
-      "Senior" : "images/Class of 2020.png",
-      "Junior" : "images/Class of 2021.png",
+      "Senior" : "data-portrait/images/Class of 2020.png",
+      "Junior" : "data-portrait/images/Class of 2021.png",
       "is_text" : false
     }
   },
