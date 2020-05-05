@@ -27,15 +27,6 @@
       "Strongly Disagree" : "Survey Images_1 school strongly disagree.png",
       "is_text" : false
     },
-    "I have been supporting local businesses as much as I can.": {
-      "x" : 0,
-      "y" : 0,
-      "Strongly Agree" : "Survey Images_1 local strongly agree.png",
-      "Agree" : "Survey Images_1 local agree.png",
-      "Neutral" : "Survey Images_1 local neutral.png",
-      "Disagree" : "Survey Images_Blank.png",
-      "is_text" : false
-    },
    "I am very conscious of sanitization when I shop for groceries.": {
       "x" : 0,
       "y" : 0,
@@ -56,6 +47,15 @@
       "y" : 0,
       "Senior" : "Class of 2020.png",
       "Junior" : "Class of 2021.png",
+      "is_text" : false
+    },
+        "I have been supporting local businesses as much as I can.": {
+      "x" : 0,
+      "y" : 0,
+      "Strongly Agree" : "Survey Images_1 local strongly agree.png",
+      "Agree" : "Survey Images_1 local agree.png",
+      "Neutral" : "Survey Images_1 local neutral.png",
+      "Disagree" : "Survey Images_Blank.png",
       "is_text" : false
     }
   },
