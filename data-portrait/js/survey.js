@@ -10,7 +10,7 @@ class Answer {
     this.is_text = is_text;
 
     if(!this.is_text) {
-      this.img = loadImage('/images/'+this.imgtext);
+      this.img = loadImage('images/'+this.imgtext);
     }
 
   }
@@ -52,7 +52,7 @@ let answers = []; // Global array to hold all answer objects
 // Put any asynchronous data loading in preload to complete before "setup" is run
 function preload() {
 
-  data = loadJSON('/js/data.json', function (data) { 
+  data = loadJSON('js/data.json', function (data) { 
     loadData();
   });
 
