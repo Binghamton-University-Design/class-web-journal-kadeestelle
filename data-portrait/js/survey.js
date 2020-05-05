@@ -1,4 +1,4 @@
-let responseIndex = 3;
+let responseIndex = 0;
 
 // Answer class
 class Answer {
@@ -20,7 +20,7 @@ class Answer {
 
     if(r == this.q) {
       if(!this.is_text) {
-        //console.log('not ok:'+ this.imgtext);
+        console.log('not ok:'+ this.imgtext);
           image(this.img, this.x, this.y);
       }
     }
@@ -30,7 +30,7 @@ class Answer {
 
     if(r == this.q) {
       if(this.is_text) {
-        //console.log('ok');
+        console.log('ok');
         fill(239, 173, 27);
         textSize(43);
         textFont('C-Medium');
