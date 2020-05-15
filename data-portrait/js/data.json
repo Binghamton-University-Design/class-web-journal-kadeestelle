@@ -4,8 +4,8 @@
     "I feel that social distancing is an effective strategy in countering the effects of the virus.": {
       "x" : 0,
       "y" : 0,
-      "Strongly Agree" : "1_always.png",
-      "Agree" : "Survey Images_Blank.png",
+      "Strongly Agree" : "background.png",
+      "Agree" : "background.png",
       "is_text" : false
     },
     "I am enjoying my extra time at home.": {
